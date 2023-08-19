@@ -8,4 +8,11 @@
 - [SQLite3](https://www.npmjs.com/package/sqlite3)
 - JS
   
+<br/>
 
+## Quick Start
+
+Install the dev dependencies 
+<pre>
+npm i
+</pre>
